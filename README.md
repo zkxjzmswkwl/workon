@@ -62,3 +62,25 @@ workon myapp details
 # Reorder commands
 workon myapp cmd 1 up
 ``` 
+
+## Config example
+```json
+{
+  "Projects": [
+    {
+      "Timestamp": 1747268259,
+      "Name": "pygzr",
+      "Dir": "E:\\py-gzr",
+      "OpenFlow": {
+        "Timestamp": 1747268259,
+        "Commands": [
+          {
+            "Command": "code",
+            "Args": ["."]
+          }
+        ]
+      }
+    }
+  ]
+}
+```
