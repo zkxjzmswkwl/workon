@@ -76,7 +76,43 @@ workon myapp cmd 1 up
         "Commands": [
           {
             "Command": "code",
-            "Args": ["."]
+            "Args": [
+              "."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Timestamp": 1747269978,
+      "Name": "igz",
+      "Dir": "C:\\Users\\dev\\proj\\src",
+      "OpenFlow": {
+        "Timestamp": 1747269978,
+        "Commands": [
+          {
+            "Command": "cmd",
+            "Args": [
+              "/C",
+              "start",
+              "",
+              "C:\\Program Files (x86)\\International GunZ\\client\\"
+            ]
+          },
+          {
+            "Command": "cmd",
+            "Args": [
+              "/C",
+              "start",
+              "",
+              "C:\\Users\\Dev\\proj\\src\\build\\bin\\RelWithDebInfo"
+            ]
+          },
+          {
+            "Command": "clion64",
+            "Args": [
+              "."
+            ]
           }
         ]
       }
