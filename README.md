@@ -6,7 +6,7 @@ A simple CLI tool for managing development projects and automating their startup
 ## Installation
 
 ```
-go install github.com/zkxjzmswkwl/workon@latest
+go install github.com/zkxjzmswkwl/workon/cmd/workon
 ```
 
 ## Config location
